@@ -46,3 +46,5 @@ Handles website, mail servers, launcher, and support systems.
 ## Launcher
 
 * **Official PhoenixFNT Launcher:** [GitHub Repository](https://github.com/phoenixfnt/Launcher)
+
+### Also check out [PyFN](https://github.com/PythonFN) Our old Project we merged into this.
